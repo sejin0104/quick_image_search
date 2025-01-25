@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Quick Image Searcher",
+    "description": "It makes us searching image quickly",
+    "version": "1.0",
+    "action": {
+      "default_popup": "assets/welcome.html",
+      "default_icon": "assets/hello_extensions.png"
+    }
+  }
